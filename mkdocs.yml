@@ -1,0 +1,10 @@
+site_name: StarMade Guides
+site_description: Guides and documentation for StarMade
+docs_dir: docs
+theme:
+  name: readthedocs
+nav:
+- Home: index.md
+- Combat:
+  - Shields: combat/01-shields.md
+  - Armor & Damage: combat/02-armor-and-damage.md
