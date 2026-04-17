@@ -2,8 +2,6 @@
 
 This section is for players new to StarMade. It covers the basics of surviving, navigating, and understanding the game's core systems before diving into more advanced topics.
 
-#
-
 # Launching the Game
 
 When first entering the game, the player will be given the option to run through a brief tutorial which will introduce the basics of the game. New players are recommended to go through the tutorial as it provides you with a basic understanding of essential game mechanics.
@@ -15,8 +13,6 @@ An important point to note is that whilst in Astronaut Mode, the character will 
 Note: To orient one's character to an object, move close enough to touch the object, then press `space`. This will change the character's perspective of "down" to be the "down" perspective of the object that was touched. This becomes very useful if when disoriented in a closed or limited space.
 
 Another important point to note is the galaxy map. Press the `M` key to see the galaxy map. Use the scroll wheel, `W` `A` `S` `D` keys and the `E` and `Q` keys to navigate the map. More advanced controls are provided in the description bar on the map screen. Notice the icons seen on the map are primarily Shops, Space Stations, Pirate Stations, and Unknown Entities (Stations or Planets). These are areas that can be explored.
-
-#
 
 # User Interface
 
@@ -34,8 +30,6 @@ Another important point to note is the galaxy map. Press the `M` key to see the 
 - **Hotbar:** The items that your character is currently able to use in the world. Change selection by either pressing the associated number on the keyboard or by scrolling with the mouse wheel.
 - **Power:** The current power level for the entity that the player is currently modifying or utilizing. This bar is empty when the player is in Astronaut Mode.
 
-#
-
 # Your First Ship
 
 Every player is provided with the starting materials to make a small ship upon first entering a server. To make a ship, a player must first have a Ship Core somewhere in their inventory or hotbar. To create a ship, simply look out into empty space and press `X`. This will bring up the ship creation window. Enter a ship name and continue. The ship can be renamed later using a faction module.
@@ -46,9 +40,7 @@ Feel free to enter the ship by interacting with it using the `R` key. Once there
 
 Traveling in Flight Mode is similar to moving about in Astronaut Mode. `W` `A` `S` `D``E``Q` are used to move around, but since a ship is being moved around instead of a character (whose mass is always the same), its speed will be relative to its mass and the number of thruster modules present on the ship. More information about modes and movement in general can be found on the Modes page.
 
-It is important to note that if a player simply needs to travel a short distance within safe territory quickly, ship cores do not require a thruster module in order to move about in space. Pressing `X` with a ship core in one's inventory or hotbar, then pressing `R` and moving about using `W` `A` `S` `D``E``Q` will move the player about in space with relative ease at a much faster pace than floating in Astronaut Mode. Be aware though, that without a thruster module, bringing the ship core to a complete stop will be slightly more difficult. Still, for the purpose of traveling short distance quickly, it's handy for a player to always carry around at least one ship core on their character at all times if possible. 
-
-#
+It is important to note that if a player simply needs to travel a short distance within safe territory quickly, ship cores do not require a thruster module in order to move about in space. Pressing `X` with a ship core in one's inventory or hotbar, then pressing `R` and moving about using `W` `A` `S` `D``E``Q` will move the player about in space with relative ease at a much faster pace than floating in Astronaut Mode. Be aware though, that without a thruster module, bringing the ship core to a complete stop will be slightly more difficult. Still, for the purpose of traveling short distance quickly, it's handy for a player to always carry around at least one ship core on their character at all times if possible.
 
 # Obtaining Resources
 
@@ -58,15 +50,11 @@ To mine using a Salvage Module, the ship must first have a Salvage Computer and 
 
 To mine by hand, simply `Right Click` on a block and wait until the block disappears. The light-blue grid that appears when mining by hand will become more dense as the duration of the mining process increases.
 
-#
-
 # Primary Sources
 
 If you're playing on a server that has a low population (or in single player), it is highly likely that you will see asteroids in the near distance. These can serve as an excellent source of initial raw materials needed to get started with manufacturing products necessary for building ships and stations. Additionally, since asteroids will always contain the same types of raw materials depending on their mineral composition, they can be sought out when the player requires a particular kind of raw material. Asteroids are also the only entity from which minerals may be naturally mined. 
 
 Planets are much larger than asteroids and thus contain a much higher volume of raw materials. However, planets also contain a large number of blocks that serve only as decoration, which can become cumbersome when mining multiple planets. Each "face" (also called a segment or plate) of a planet will contain two random resources (ore and/or crystals) within. Twelve of these "faces" are on every planet, so the potential to obtain every ore and crystal on one planet does exist; however, there is no way to predict what resources a planet will contain, thus mining a planet when particular resources are being sought is not advisable early on in the game.
-
-#
 
 # Setting Up a Base
 
@@ -78,19 +66,13 @@ When setting up a base, you may want to consider an area to build said base. If 
 - A shipyard, if on a station
 > Note that these things are not all necessary (besides power), and a station is less resource intensive and less vulnerable.
 
-#
-
 # Factions
 
 Factions are similar to guilds or clans, where players can invite and recruit members into a cooperative group. This group will share the alliances and enemies of the faction. Factions can be at war with one another, causing players in those factions to appear as enemies. There are many benefits to belonging to a faction. Working together to achieve common goals is a large benefit, but there are features that factions provide which also enhance the game experience. Visit the Factions page for more details.
 
-#
-
 # Death
 
 Upon dying, a player will lose 10% of the credits that the player was carrying at the time that the death occurred, some faction points, and the player will respawn at the last PlexUndeathinator they touched or at the starting Shop if a PlexUndeathinator was never activated by the player. Items being carried by the player in the inventory or hotbar will not be lost upon death.
-
-#
 
 # Game Progression
 
@@ -107,15 +89,11 @@ StarMade is a sandbox game where you create your own fun, but progress can be me
 - Faction Wars
 There are many other goals you can set for yourself.
 
-#
-
 # Multiplayer
 
 StarMade is fun in single player mode, but playing with friends in multi-player mode can enrich the StarMade experience. A list of public servers that players may openly join can be viewed by clicking on the "Server List" button next to the MultiPlayer section under the Game category in the StarMade Connection Setup window (the one that opens after the initial launcher). A player can also host their own private server for their friends to join as well. See Multi-Player for more information.
 
 One of the benefits of StarMade multiplayer is the Blueprint system. Ship blueprints can be saved, allowing you to remake any ship which you have blueprints for. This includes ships built in solo mode, or on other multiplayer servers. With the ability to make a blueprint and bring your creations from one server to the next, you never have to lose your creations. This also allows you to download blueprints of ships created by the community. Please see Blueprints for more information.
-
-#
 
 # Community
 
