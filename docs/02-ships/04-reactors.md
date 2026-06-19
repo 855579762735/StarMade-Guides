@@ -37,7 +37,7 @@ Only the first 10 **Reactor Power** modules do not require stabilization. After 
   <rect x="30" y="56" width="580" height="170" rx="18" fill="#0d141d" stroke="#27384d" stroke-width="2" stroke-dasharray="6 5"/>
   <text x="46" y="78" fill="#56708c" font-size="12" font-style="italic">your ship</text>
 
-  <g fill="#e09a3e" stroke="#7a531c">
+  <g fill="#4f8fd0" stroke="#274a6b">
     <rect x="84" y="104" width="30" height="30" rx="3"/>
     <rect x="116" y="104" width="30" height="30" rx="3"/>
     <rect x="148" y="104" width="30" height="30" rx="3"/>
@@ -45,18 +45,18 @@ Only the first 10 **Reactor Power** modules do not require stabilization. After 
     <rect x="116" y="136" width="30" height="30" rx="3"/>
     <rect x="148" y="136" width="30" height="30" rx="3"/>
   </g>
-  <text x="131" y="194" text-anchor="middle" fill="#e0b57a" font-size="13" font-weight="bold">Reactor blocks</text>
+  <text x="131" y="194" text-anchor="middle" fill="#8fb6e0" font-size="13" font-weight="bold">Reactor blocks</text>
   <text x="131" y="210" text-anchor="middle" fill="#8e9bac" font-size="11">one active group</text>
 
   <line x1="178" y1="135" x2="430" y2="120" stroke="#3f6f9c" stroke-width="2" stroke-dasharray="5 5"/>
-  <g fill="#4f8fd0" stroke="#274a6b">
+  <g fill="#e09a3e" stroke="#7a531c">
     <rect x="432" y="92" width="28" height="28" rx="3"/>
     <rect x="470" y="104" width="28" height="28" rx="3"/>
     <rect x="448" y="132" width="28" height="28" rx="3"/>
     <rect x="500" y="92" width="28" height="28" rx="3"/>
     <rect x="528" y="120" width="28" height="28" rx="3"/>
   </g>
-  <text x="498" y="184" text-anchor="middle" fill="#8fb6e0" font-size="13" font-weight="bold">Stabilizers</text>
+  <text x="498" y="184" text-anchor="middle" fill="#e0b57a" font-size="13" font-weight="bold">Stabilizers</text>
   <text x="498" y="200" text-anchor="middle" fill="#8e9bac" font-size="11">any position / distance</text>
 
   <rect x="30" y="248" width="430" height="22" rx="6" fill="#1b232f" stroke="#33445a"/>
