@@ -54,5 +54,5 @@ As you might expect the community has a lot of questions regarding how the two S
 ### Will we get cross entity lighting?
 > "It's within possibility but not yet there, since it would cost a bit, but it's theoretically possible, yes. Also I'll do some dynamic lighting up close either way" [Schema](https://discord.com/channels/100173352475303936/1476338467406610665/1516882798949040159)
 
-15. Why the rebase to Unity?
+### Why the rebase to Unity?
 > "It's mostly because such deep cuts would have to be made to the old engine that it essentially would be a rewrite either way. I'm using the parts of unity that are actually good. Unity has a ton of problems, mostly the stuff they put upfront. All the good stuff is in the back" [Schema](https://discord.com/channels/100173352475303936/1476338467406610665/1516881371472072706)
